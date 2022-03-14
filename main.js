@@ -7,7 +7,7 @@ function darkMode() {
 // h1 animations
 document.addEventListener('DOMContentLoaded', function (event) {
 
-   var dataText = ["Hello Dear!"];
+   var dataText = ["Hello!"];
 
    function typeWriter(text, i, fnCallback) {
       if (i < (text.length)) {
